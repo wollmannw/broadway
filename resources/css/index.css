@@ -15,12 +15,12 @@ h1{
   color: white;
   text-align: center;
 }
-a{
+
+
+.headerList {
   color:white;
-
-
 }
-ul{
+#topList{
   font-size: 18px;
   color: white;
   text-align: center;
@@ -48,4 +48,19 @@ h3 {
   background-size: 165% 30px ;
   background-repeat: no-repeat;
   text-align: center;
+}
+
+#bottom {
+  text-align: center;
+}
+
+#contacList{
+  font-size: 18px;
+  text-align: center;
+  list-style: none;
+  font-weight: bold;
+}
+
+.contactInfo {
+  color: black;
 }
