@@ -64,3 +64,15 @@ h3 {
 .contactInfo {
   color: black;
 }
+
+#footer {
+  background-color: dimgray;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.footerList{
+  color: white;
+  font-size: 20px;
+
+}
